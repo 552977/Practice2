@@ -1,3 +1,4 @@
+# Set up turtle
 import turtle as trtl
 t = trtl
 
